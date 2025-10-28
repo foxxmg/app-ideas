@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Password Strength Checker Idea
 
 **Tier:** 1-Beginner
 
